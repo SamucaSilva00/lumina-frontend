@@ -1367,6 +1367,21 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.57.1.tgz#de633db3ec2ef6a3c89e2f19038063e8a122e2c2"
   integrity sha512-d9zaMRSTIKDLhctzH12MtXvJKSSUhaHcjV+2Z+GK+EEY7XKpP5yR4x+N3TAcHTcu963nIr+TMcCb4DBCYX1z6Q==
 
+"@fontsource/carattere@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/carattere/-/carattere-5.1.0.tgz#e1c5ff072175b6f1a2572abb103dc73af18f3d7f"
+  integrity sha512-yMcqF1/JxGQ+2+7k9QYapVwzpvoS5GYIWGhv5HySTxOLpRHDzApcooO/tl2fUqr8Rkpr+zL4tZ8kj/QYlryYGw==
+
+"@fontsource/dm-sans@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/dm-sans/-/dm-sans-5.1.0.tgz#9ac357ba9d933ef1e2c6bcb3c846d6e60218486d"
+  integrity sha512-YpGtZ8Rbh+/84rn7o/rzBBFnikoLjhjtzKYAMZhSRr7xWU0piZDBFhUdI14M4Ub8emh0TSG/gU2pJOMUe9TGYA==
+
+"@fontsource/playfair-display@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/playfair-display/-/playfair-display-5.1.0.tgz#e405a164fbd41e114be977579932dc24a5676905"
+  integrity sha512-O4Ph7IwM2sH4IpSgYKP1ZdOuaYd22+eXdT1jU8/kDM6gIABV2RoqJM34Z+WD364+mO1noXPcF1ZtA4aRfcFZLA==
+
 "@humanwhocodes/config-array@^0.13.0":
   version "0.13.0"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.13.0.tgz#fb907624df3256d04b9aa2df50d7aa97ec648748"
